@@ -1,0 +1,7 @@
+a
+c
+ad
+abb
+bad
+deb
+bbcde
